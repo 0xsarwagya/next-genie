@@ -10,7 +10,14 @@
 		"rmrf",
 		"ryansonshine",
 		"socio",
-		"tsdoc"
+		"tsdoc",
+		"authjs",
+		"nextauth",
+		"fireship",
+		"firestore",
+		"shadcn",
+		"bunx",
+		"Jsversion"
 	],
 	"flagWords": [],
 	"ignorePaths": [
