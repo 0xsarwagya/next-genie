@@ -15,9 +15,9 @@
 	Next-Genie is a personal, opinionated CLI tool to kickstart Next.js projects with all the essential configurations and dependencies already in place. No more wasting time on boilerplate; just run the command, and you're ready to go!
     <br />
     <br />
-    <a href="https://github.com/0xsarwagya/arunya/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/0xsarwagya/next-genie/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
     ·
-    <a href="https://github.com/0xsarwagya/arunya/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+    <a href="https://github.com/0xsarwagya/next-genie/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
   </p>
 </div>
 
