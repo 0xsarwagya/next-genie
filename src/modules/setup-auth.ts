@@ -4,6 +4,7 @@ import { execAsync } from "../lib/utils.ts";
 
 export const setupAuth = async (name: string) => {
 	const projectDir = path.resolve(`./${name}`);
+	process.chdir(path.resolve());
 
 	const projectJsonPath = path.join(projectDir, "package.json");
 

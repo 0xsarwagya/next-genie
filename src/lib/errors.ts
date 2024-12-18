@@ -64,7 +64,7 @@ export const handleError = (error: unknown) => {
 
 	return {
 		body: {
-			code: "INTERNAL_SERVER_ERROR",
+			code: "INTERNAL_ERROR",
 			message: "An unexpected error occurred",
 			...(process.env.NODE_ENV !== "production" && {
 				details: error instanceof Error ? error.message : String(error),
